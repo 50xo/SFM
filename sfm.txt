@@ -1,0 +1,1221 @@
+{
+   "Accessibility" : 1,
+   "AgeRating" : 2,
+   "AutoLocalizeRoom" : false,
+   "BecameRRStudioRoomAt" : null,
+   "BoostCount" : 12,
+   "CloningAllowed" : true,
+   "CreatedAt" : "2022-07-30T20:19:22.4823816Z",
+   "CreatorAccountId" : 7871642,
+   "CurrentSnapshotId" : "38620e48-faba-421a-3d27-08de012cb849",
+   "CustomWarning" : null,
+   "DataBlob" : "8ek1dip7lmoqwh35j5i9hij1y.meta",
+   "DataBlobHash" : "LOWPzSR6o3RLXhWIUr3xZXQDkdt+qU3aJL/S8DPnloo=",
+   "Description" : "Glory To SFM",
+   "DisableMicAutoMute" : false,
+   "DisableRoomComments" : false,
+   "EncryptVoiceChat" : false,
+   "ExcludeFromLists" : false,
+   "ExcludeFromSearch" : false,
+   "ImageName" : "9kfn2c4njqizc85du8t6u58qk.jpg",
+   "IsDeveloperOwned" : false,
+   "IsDorm" : true,
+   "IsJuniorCreated" : false,
+   "IsPlacePlay" : false,
+   "IsRRO" : true,
+   "IsRecRoomApproved" : true,
+   "LoadScreenLocked" : false,
+   "LoadScreens" : [
+      {
+         "ImageName" : "5jmqhm89t72cpr0j20ae8p84n.jpg",
+         "Subtitle" : "Glory to SFM",
+         "Title" : "Welcome to SFM"
+      }
+   ],
+   "LocalizationContext" : {
+      "LocalizedFields" : [ "Description", "CustomWarning" ],
+      "Scope" : null,
+      "TargetLocale" : null
+   },
+   "MaxPlayerCalculationMode" : 0,
+   "MaxPlayers" : 40,
+   "MinLevel" : 4,
+   "MinUgcSubVersion" : 233,
+   "Name" : "SecretsFieldMilitary",
+   "PersistenceVersion" : 246,
+   "PromoExternalContent" : [],
+   "PromoImages" : [
+      "3ryw5vn6nbkfrkai0i6w2nuof.jpg",
+      "1klqswk67k5m5yykjuah8relm.jpg",
+      "dcpzhu2oqie8ze9zeuhf4vm64.jpg",
+      "dom55bh6hr5jchwxe76wc1ei5.jpg"
+   ],
+   "PublishState" : 0,
+   "PublishedAt" : "2022-09-24T14:05:57.3971382Z",
+   "RankedEntityId" : "74565364",
+   "RankingContext" : null,
+   "RestrictedCircuitsAllowListNames" : [ "whiteglove2" ],
+   "Roles" : [
+      {
+         "AccountId" : 66176086,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 30279409,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 61335773,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 6860086,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 28831796,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1567148017,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 23469109,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 79873705,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 18972982,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 5751732,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 26989045,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 18816422,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 11934227,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2078495,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 14833173,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 27522024,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 18765515,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1325636433,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 77923170,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2037757246,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 57440122,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 15906155,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1154661646,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 21343567,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1375100506,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 14144829,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 47114858,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 8625419,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 845624129,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2078495,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1299105520,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 58733176,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 4035579,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2048204808,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1506615756,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1375100506,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 54650836,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 3616541,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 950808788,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 981953129,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 58733176,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1320167098,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 75428974,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1908345587,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 68064000,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 18816422,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1598389625,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 950808788,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 50965315,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2037757246,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 24236978,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 8251724,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2037757246,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 19837148,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2078495,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 805562819,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 30279409,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 72970777,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 58733176,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1204914,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 836797702,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1455609912,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 535882700,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 78300705,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 28507342,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 950808788,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 317942250,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 18816422,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 24072460,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 8134579,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 67536726,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 12862474,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1612354386,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1050143637,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 964547622,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1297295772,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 47352022,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 32497684,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 58733176,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 10376391,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 490652953,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1297295772,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1265638752,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 67378148,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 11109756,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 8134579,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1082214253,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2078495,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 61813707,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 30279409,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1695288838,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 11231180,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 27090260,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 17900585,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 2030644744,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 950808788,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 16699947,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 78617212,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1503476061,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1297295772,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 270677482,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 10135930,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 58733176,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 10910132,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 18765515,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 8754094,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 15250615,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 35378871,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 26298433,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1167149106,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1297295772,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1144799340,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1375100506,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 11943272,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 26298433,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 212494385,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 55553600,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 525384071,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 47614260,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 58733176,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1554621789,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 950808788,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 2113210446,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 58733176,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1227974741,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1297295772,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1052780414,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 950808788,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 9917919,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 58733176,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 2576996,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 39768021,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 492877332,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 9026856,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1165886566,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 950808788,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1234648075,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1565453948,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 460095406,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2078495,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 734561525,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 2531099,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1375100506,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1280166900,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1375100506,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1958062017,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 3255177,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 11253049,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 6709252,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 11253049,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 1851342193,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1727053044,
+         "Role" : 10
+      },
+      {
+         "AccountId" : 5080974,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 67378148,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 1727053044,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 9915109,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 75428974,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 58733176,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 3675166,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 30279409,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 18816422,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 31320011,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 79709597,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 11253049,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 2048204808,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 8134579,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2078495,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 1050143637,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 81113381,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 1297295772,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 1897697002,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 1565453948,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 1375100506,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 29860492,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 71260423,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 2037757246,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 780277154,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 7871642,
+         "Role" : 20
+      },
+      {
+         "AccountId" : 30279409,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 30279409,
+         "Role" : 30
+      },
+      {
+         "AccountId" : 61704143,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 61704143,
+         "Role" : 30
+      },
+      {
+         "AccountId" : 2078495,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 2078495,
+         "Role" : 30
+      },
+      {
+         "AccountId" : 11253049,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 11253049,
+         "Role" : 30
+      },
+	  {
+         "AccountId" : 1602549,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 30279409,
+         "Role" : 255
+      },
+      {
+         "AccountId" : 7871642,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 30279409,
+         "Role" : 255
+      },
+	  {
+         "AccountId" : 290063,
+         "InvitedRole" : 0,
+         "LastChangedByAccountId" : 30279409,
+         "Role" : 255
+      }
+   ],
+   "RoomId" : 74565364,
+   "State" : 0,
+   "Stats" : {
+      "CheerCount" : 11151,
+      "FavoriteCount" : 8941,
+      "VisitCount" : 672434,
+      "VisitorCount" : 146012
+   },
+   "SubRooms" : [
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2025-05-03T00:14:53.759993Z",
+            "DataBlob" : "5bmnf8q7u3w5ysu953mg34ody.room",
+            "DataBlobHash" : "VzzpAEVSTxcGdiIBH63EBXK50nVVJdVImKD6RDgjJz8=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 185,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 7871642,
+            "SavedOnDeviceClass" : 2,
+            "SavedOnPlatform" : 7,
+            "SubRoomDataSaveId" : 209679538,
+            "SubRoomId" : 6517223497193645022,
+            "Tags" : [],
+            "UgcSubVersion" : 185
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "Oldmap_Blueflag",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 6517223497193645022,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2023-04-15T15:15:03.4268189Z",
+            "DataBlob" : "99v8jgweivcdwdgo70uddr3if.room",
+            "DataBlobHash" : "1N1LVsPvZm+bMhy6k1HbPIeHfNnkYwemcY9CnAZhAEM=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 50,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 5080974,
+            "SavedOnDeviceClass" : 1,
+            "SavedOnPlatform" : 0,
+            "SubRoomDataSaveId" : 119052498,
+            "SubRoomId" : 6526048962116494285,
+            "Tags" : [],
+            "UgcSubVersion" : 50
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "Oldmap_redflag",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 6526048962116494285,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2025-05-03T00:16:27.9249121Z",
+            "DataBlob" : "77su28kc0bpxonj0nhd0alx4o.room",
+            "DataBlobHash" : "lHd+UC4CviMgpIrivaEu2+qQwjmCMT5hKBoaxTtl/34=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 185,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 7871642,
+            "SavedOnDeviceClass" : 2,
+            "SavedOnPlatform" : 7,
+            "SubRoomDataSaveId" : 209679678,
+            "SubRoomId" : 8093620462747455554,
+            "Tags" : [],
+            "UgcSubVersion" : 185
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "Privatejetmap",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 8093620462747455554,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2024-09-09T20:46:54.4398636Z",
+            "DataBlob" : "00gpgcj1tc8d9gz5csta24x7q.room",
+            "DataBlobHash" : "EBl210F89x1va2xnVMzRv+faFtsq87ND4i3ScOquavs=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 147,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 7871642,
+            "SavedOnDeviceClass" : 2,
+            "SavedOnPlatform" : 7,
+            "SubRoomDataSaveId" : 185095854,
+            "SubRoomId" : 6893771294679640076,
+            "Tags" : [],
+            "UgcSubVersion" : 147
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "Airforcedry",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 6893771294679640076,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2023-07-31T21:40:13.5676631Z",
+            "DataBlob" : "28jdnaz7yvbfngqq6yd90w9v0.room",
+            "DataBlobHash" : "oZlz2trTqRgLdCKh4MQX6zl76GlpCXJ947Gx1ZYU19g=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 58,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 5080974,
+            "SavedOnDeviceClass" : 1,
+            "SavedOnPlatform" : 0,
+            "SubRoomDataSaveId" : 133969438,
+            "SubRoomId" : 3039451335202752637,
+            "Tags" : [],
+            "UgcSubVersion" : 58
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "airforceHQ",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 3039451335202752637,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2024-06-29T19:08:25.8243541Z",
+            "DataBlob" : "5py8bba99vgt3gpuoir14a68y.room",
+            "DataBlobHash" : "yCbSPWP3uQ8lXPPsG5Vl3ehVJywmJIMu0xoAovGtr7o=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 138,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 7871642,
+            "SavedOnDeviceClass" : 2,
+            "SavedOnPlatform" : 7,
+            "SubRoomDataSaveId" : 175193536,
+            "SubRoomId" : 3880920647705007445,
+            "Tags" : [],
+            "UgcSubVersion" : 138
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "BUILDING",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 3880920647705007445,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2025-10-01T23:27:02.5369505Z",
+            "DataBlob" : "97cdh4u6b6sgky50euqh6iscq.room",
+            "DataBlobHash" : "0Qekm94mUbGEqBC0bwJIbAZVB88VTwk4SWrpfM+me9M=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 246,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 30279409,
+            "SavedOnDeviceClass" : 2,
+            "SavedOnPlatform" : 3,
+            "SubRoomDataSaveId" : 223011165,
+            "SubRoomId" : 8805751145565665366,
+            "Tags" : [],
+            "UgcSubVersion" : 246
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "UnderConstruction",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : 223340753,
+         "SubRoomId" : 8805751145565665366,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2024-09-09T20:54:16.1651134Z",
+            "DataBlob" : "8uy7jlv9jhq28u1n8qaf2m3d1.room",
+            "DataBlobHash" : "DD/eyE4cv9BrB9WLiM9cctuoOenQje2i80v2xHwcl4I=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 147,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 7871642,
+            "SavedOnDeviceClass" : 2,
+            "SavedOnPlatform" : 7,
+            "SubRoomDataSaveId" : 185096569,
+            "SubRoomId" : 1331780945701136387,
+            "Tags" : [],
+            "UgcSubVersion" : 147
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "milansnewmap",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 1331780945701136387,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2025-05-03T00:21:14.1811713Z",
+            "DataBlob" : "ba8f80h17eyybaha9r29p0vf5.room",
+            "DataBlobHash" : "ogih6242KbCuGrPBB2/RnEgmp/Ss28+Pq+mdF87oypU=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 185,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 7871642,
+            "SavedOnDeviceClass" : 2,
+            "SavedOnPlatform" : 7,
+            "SubRoomDataSaveId" : 209680126,
+            "SubRoomId" : 4085622215858045330,
+            "Tags" : [],
+            "UgcSubVersion" : 185
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "2025OldMap",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : 202515551,
+         "SubRoomId" : 4085622215858045330,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : null,
+         "CurrentSave" : {
+            "CreatedAt" : "2025-02-08T13:02:36.3742631Z",
+            "DataBlob" : "c88wd8g0gggu9iypw7nfp6u99.room",
+            "DataBlobHash" : "rMvoljXLH0P6lbrRCcSdtn1160WLTTlHdO+HMs8bgLQ=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 167,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 5080974,
+            "SavedOnDeviceClass" : 1,
+            "SavedOnPlatform" : 0,
+            "SubRoomDataSaveId" : 201329139,
+            "SubRoomId" : 948751423157754281,
+            "Tags" : [],
+            "UgcSubVersion" : 167
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "Mpmeeting",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 948751423157754281,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : 7871642,
+         "CurrentSave" : {
+            "CreatedAt" : "2025-08-19T01:15:19.7978498Z",
+            "DataBlob" : "5ws9y4dd3k6n8kuaubmyvq3z9.room",
+            "DataBlobHash" : "FoksqJTBDx6b8vn6O17PRY9fSaCW18H+QFdgygPgYZE=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 235,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 7871642,
+            "SavedOnDeviceClass" : 5,
+            "SavedOnPlatform" : 1,
+            "SubRoomDataSaveId" : 219927856,
+            "SubRoomId" : 991935697857425039,
+            "Tags" : [],
+            "UgcSubVersion" : 235
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "2024NewMap",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : 213603007,
+         "SubRoomId" : 991935697857425039,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 0,
+         "CreatorAccountId" : 7871642,
+         "CurrentSave" : null,
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "hhh",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : null,
+         "SubRoomId" : 8574499436490651239,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      },
+      {
+         "Accessibility" : 1,
+         "CreatorAccountId" : 7871642,
+         "CurrentSave" : {
+            "CreatedAt" : "2025-09-14T20:44:06.9065179Z",
+            "DataBlob" : "atgw9w817w7g6p1czcg31bxam.room",
+            "DataBlobHash" : "qIZS47xPgshOPbvQ0gilsGdZcstCZBOl5iO6JOiCpVc=",
+            "Description" : "",
+            "ModerationState" : 0,
+            "OMVersion" : 0,
+            "PersistenceVersion" : 241,
+            "ReferencedUnityAssetIds" : [],
+            "SavedByAccountId" : 2078495,
+            "SavedOnDeviceClass" : 2,
+            "SavedOnPlatform" : 7,
+            "SubRoomDataSaveId" : 221932697,
+            "SubRoomId" : 3503880230201660029,
+            "Tags" : [],
+            "UgcSubVersion" : 241
+         },
+         "IsSandbox" : true,
+         "LastModeratedSaveModerationState" : 0,
+         "MaxPlayers" : 40,
+         "Name" : "MainMAP",
+         "RoomId" : 74565364,
+         "ShouldAutoStageSaves" : true,
+         "StagedSubRoomDataSaveId" : 221642808,
+         "SubRoomId" : 3503880230201660029,
+         "UnitySceneId" : "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      }
+   ],
+   "SupportsJuniors" : false,
+   "SupportsLevelVoting" : false,
+   "SupportsMobile" : true,
+   "SupportsQuest2" : true,
+   "SupportsScreens" : true,
+   "SupportsTeleportVR" : false,
+   "SupportsVRLow" : true,
+   "SupportsWalkVR" : true,
+   "Tags" : [
+      {
+         "Tag" : "action",
+         "Type" : 0
+      },
+      {
+         "IsPrimaryGenre" : true,
+         "Tag" : "roleplay",
+         "Type" : 0
+      },
+      {
+         "Tag" : "beta",
+         "Type" : 1
+      },
+      {
+         "Tag" : "rp",
+         "Type" : 0
+      },
+      {
+         "Tag" : "military",
+         "Type" : 0
+      },
+      {
+         "Tag" : "fun",
+         "Type" : 0
+      }
+   ],
+   "ToxmodEnabled" : false,
+   "UgcSubVersion" : 246,
+   "UgcVersion" : 1,
+   "WarningMask" : 2
+}
